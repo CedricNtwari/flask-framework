@@ -1,6 +1,11 @@
-## Overview:
+# Flask Framework Test Repository
 
 This repository serves as a practice ground for learning and experimenting with the Flask web framework. Flask is a lightweight and flexible Python web framework that provides the tools and utilities needed to build web applications.
+
+## Live Application URL
+
+The application is currently hosted on Heroku. You can access it using the following URL:
+[Flask Framework Test](https://flask-framework-test-49db37613ffb.herokuapp.com/)
 
 ## Contents:
 
